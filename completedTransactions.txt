@@ -1,0 +1,912 @@
+Customer ID: 101
+Name: Izz
+Vehicle Plate Number: Test
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 89.99, Date: 2024-06-15, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 122.55, Date: 2024-06-20, Estimated Completion: 2 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 61.12, Date: 2024-06-23, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 155.35, Date: 2024-06-30, Estimated Completion: 3 Hours
+Total Service Cost Paid: 429.01
+-------------------------------------------------
+Customer ID: 100
+Name: Tchakka
+Vehicle Plate Number: JK707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 81.33, Date: 2026-03-24, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 70.22, Date: 2026-03-26, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 146.11, Date: 2026-03-29, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Transmission Repair, Cost: 160.33, Date: 2026-03-31, Estimated Completion: 4 Hours
+Total Service Cost Paid: 457.99
+-------------------------------------------------
+Customer ID: 99
+Name: Buck
+Vehicle Plate Number: IJ606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 88.77, Date: 2026-03-15, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 116.66, Date: 2026-03-17, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 74.99, Date: 2026-03-20, Estimated Completion: 2 Hours
+Total Service Cost Paid: 280.42
+-------------------------------------------------
+Customer ID: 95
+Name: Steve
+Vehicle Plate Number: CD202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.66, Date: 2026-02-04, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 143.33, Date: 2026-02-06, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 72.99, Date: 2026-02-09, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Transmission Repair, Cost: 161.44, Date: 2026-02-11, Estimated Completion: 4 Hours
+Total Service Cost Paid: 463.42
+-------------------------------------------------
+Customer ID: 94
+Name: Tony
+Vehicle Plate Number: AB101
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 76.44, Date: 2026-01-25, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 70.11, Date: 2026-01-28, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Tire Rotation, Cost: 116.88, Date: 2026-01-31, Estimated Completion: 2 Hours
+- Service ID: 4, Type: Transmission Repair, Cost: 159.77, Date: 2026-02-02, Estimated Completion: 4 Hours
+Total Service Cost Paid: 423.20
+-------------------------------------------------
+Customer ID: 93
+Name: Peter
+Vehicle Plate Number: YZ909
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 78.77, Date: 2026-01-16, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.33, Date: 2026-01-18, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Transmission Repair, Cost: 168.11, Date: 2026-01-21, Estimated Completion: 4 Hours
+- Service ID: 4, Type: Engine Tune-Up, Cost: 142.88, Date: 2026-01-23, Estimated Completion: 3 Hours
+Total Service Cost Paid: 462.09
+-------------------------------------------------
+Customer ID: 92
+Name: Rouge
+Vehicle Plate Number: WX808
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 80.22, Date: 2026-01-08, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 159.33, Date: 2026-01-10, Estimated Completion: 4 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 145.22, Date: 2026-01-13, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Brake Inspection, Cost: 71.77, Date: 2026-01-15, Estimated Completion: 1 Hour
+Total Service Cost Paid: 456.54
+-------------------------------------------------
+Customer ID: 91
+Name: Hancock
+Vehicle Plate Number: UV707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 82.99, Date: 2025-12-30, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 113.77, Date: 2026-01-02, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 74.66, Date: 2026-01-05, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Transmission Repair, Cost: 167.22, Date: 2026-01-07, Estimated Completion: 4 Hours
+Total Service Cost Paid: 438.64
+-------------------------------------------------
+Customer ID: 101
+Name: Izz
+Vehicle Plate Number: Test
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 89.99, Date: 2024-06-15, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 122.55, Date: 2024-06-20, Estimated Completion: 2 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 61.12, Date: 2024-06-23, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 155.35, Date: 2024-06-30, Estimated Completion: 3 Hours
+Total Service Cost Paid: 429.01
+-------------------------------------------------
+Customer ID: 99
+Name: Buck
+Vehicle Plate Number: IJ606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 88.77, Date: 2026-03-15, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 116.66, Date: 2026-03-17, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 74.99, Date: 2026-03-20, Estimated Completion: 2 Hours
+Total Service Cost Paid: 280.42
+-------------------------------------------------
+Customer ID: 91
+Name: Hancock
+Vehicle Plate Number: UV707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 82.99, Date: 2025-12-30, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 113.77, Date: 2026-01-02, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 74.66, Date: 2026-01-05, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Transmission Repair, Cost: 167.22, Date: 2026-01-07, Estimated Completion: 4 Hours
+Total Service Cost Paid: 438.64
+-------------------------------------------------
+Customer ID: 90
+Name: Crocodile
+Vehicle Plate Number: ST606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 78.55, Date: 2025-12-19, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 69.99, Date: 2025-12-22, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 164.77, Date: 2025-12-25, Estimated Completion: 4 Hours
+- Service ID: 4, Type: Engine Tune-Up, Cost: 146.33, Date: 2025-12-27, Estimated Completion: 3 Hours
+Total Service Cost Paid: 459.64
+-------------------------------------------------
+Customer ID: 89
+Name: Kuma
+Vehicle Plate Number: RS505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 74.88, Date: 2025-12-10, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 66.33, Date: 2025-12-13, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 139.77, Date: 2025-12-16, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Tire Rotation, Cost: 110.99, Date: 2025-12-18, Estimated Completion: 1 Hour
+Total Service Cost Paid: 391.97
+-------------------------------------------------
+Customer ID: 88
+Name: Jimbei
+Vehicle Plate Number: PQ404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 92.11, Date: 2025-12-02, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 67.22, Date: 2025-12-04, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 148.99, Date: 2025-12-06, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Transmission Repair, Cost: 155.77, Date: 2025-12-08, Estimated Completion: 4 Hours
+Total Service Cost Paid: 464.09
+-------------------------------------------------
+Customer ID: 87
+Name: Brook
+Vehicle Plate Number: OP303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 89.99, Date: 2025-11-22, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 125.66, Date: 2025-11-25, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 75.33, Date: 2025-11-28, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Transmission Repair, Cost: 171.44, Date: 2025-11-30, Estimated Completion: 4 Hours
+Total Service Cost Paid: 462.42
+-------------------------------------------------
+Customer ID: 85
+Name: Banchina
+Vehicle Plate Number: LK606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 89.22, Date: 2026-02-13, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 165.77, Date: 2026-02-15, Estimated Completion: 3 Hours
+Total Service Cost Paid: 254.99
+-------------------------------------------------
+Customer ID: 83
+Name: Usopp
+Vehicle Plate Number: GH404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 78.77, Date: 2026-01-30, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 68.33, Date: 2026-02-02, Estimated Completion: 1 Hour
+Total Service Cost Paid: 147.10
+-------------------------------------------------
+Customer ID: 81
+Name: Nami
+Vehicle Plate Number: CD202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 70.88, Date: 2026-01-16, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 160.22, Date: 2026-01-19, Estimated Completion: 4 Hours
+Total Service Cost Paid: 231.10
+-------------------------------------------------
+Customer ID: 79
+Name: Sanji
+Vehicle Plate Number: YZ010
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 81.77, Date: 2026-01-02, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 155.99, Date: 2026-01-04, Estimated Completion: 3 Hours
+Total Service Cost Paid: 237.76
+-------------------------------------------------
+Customer ID: 77
+Name: Zorro
+Vehicle Plate Number: UV808
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 83.44, Date: 2025-12-17, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 144.33, Date: 2025-12-19, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 167.88, Date: 2025-12-21, Estimated Completion: 4 Hours
+Total Service Cost Paid: 395.65
+-------------------------------------------------
+Customer ID: 84
+Name: Vivi
+Vehicle Plate Number: IJK505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 74.22, Date: 2026-02-05, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 110.88, Date: 2026-02-08, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 70.99, Date: 2026-02-10, Estimated Completion: 1 Hour
+Total Service Cost Paid: 256.09
+-------------------------------------------------
+Customer ID: 82
+Name: Nico
+Vehicle Plate Number: EF303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.99, Date: 2026-01-22, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.11, Date: 2026-01-24, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 149.33, Date: 2026-01-27, Estimated Completion: 3 Hours
+Total Service Cost Paid: 307.43
+-------------------------------------------------
+Customer ID: 80
+Name: Franky
+Vehicle Plate Number: AB101
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 76.11, Date: 2026-01-07, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 118.44, Date: 2026-01-10, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 65.22, Date: 2026-01-13, Estimated Completion: 1 Hour
+Total Service Cost Paid: 259.77
+-------------------------------------------------
+Customer ID: 78
+Name: Ace
+Vehicle Plate Number: WX909
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 88.77, Date: 2025-12-24, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 120.22, Date: 2025-12-27, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 72.33, Date: 2025-12-30, Estimated Completion: 1 Hour
+Total Service Cost Paid: 281.32
+-------------------------------------------------
+Customer ID: 76
+Name: Luffy
+Vehicle Plate Number: ST707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 81.22, Date: 2025-12-09, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 113.55, Date: 2025-12-12, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 70.22, Date: 2025-12-14, Estimated Completion: 1 Hour
+Total Service Cost Paid: 264.99
+-------------------------------------------------
+Customer ID: 65
+Name: Sakura
+Vehicle Plate Number: YZ606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.22, Date: 2025-09-18, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 160.66, Date: 2025-09-21, Estimated Completion: 4 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 150.22, Date: 2025-09-24, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Tire Rotation, Cost: 110.99, Date: 2025-09-27, Estimated Completion: 1 Hour
+Total Service Cost Paid: 507.09
+-------------------------------------------------
+Customer ID: 64
+Name: Sasuke
+Vehicle Plate Number: WX505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 72.55, Date: 2025-09-12, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 115.11, Date: 2025-09-14, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 69.77, Date: 2025-09-16, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 145.11, Date: 2025-09-18, Estimated Completion: 3 Hours
+Total Service Cost Paid: 402.54
+-------------------------------------------------
+Customer ID: 63
+Name: Naruto
+Vehicle Plate Number: UV404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 69.88, Date: 2025-09-05, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 74.33, Date: 2025-09-07, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 140.88, Date: 2025-09-10, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Transmission Repair, Cost: 160.77, Date: 2025-09-12, Estimated Completion: 4 Hours
+Total Service Cost Paid: 445.86
+-------------------------------------------------
+Customer ID: 62
+Name: Yve
+Vehicle Plate Number: ST303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 91.22, Date: 2025-08-28, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 120.77, Date: 2025-08-30, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 68.44, Date: 2025-09-02, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Transmission Repair, Cost: 162.11, Date: 2025-09-04, Estimated Completion: 4 Hours
+Total Service Cost Paid: 442.54
+-------------------------------------------------
+Customer ID: 61
+Name: Lunox
+Vehicle Plate Number: RS202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 78.99, Date: 2025-08-20, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 160.77, Date: 2025-08-22, Estimated Completion: 4 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 138.66, Date: 2025-08-25, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Tire Rotation, Cost: 114.33, Date: 2025-08-27, Estimated Completion: 2 Hours
+Total Service Cost Paid: 492.75
+-------------------------------------------------
+Customer ID: 80
+Name: Franky
+Vehicle Plate Number: AB101
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 76.11, Date: 2026-01-07, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 118.44, Date: 2026-01-10, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 65.22, Date: 2026-01-13, Estimated Completion: 1 Hour
+Total Service Cost Paid: 259.77
+-------------------------------------------------
+Customer ID: 78
+Name: Ace
+Vehicle Plate Number: WX909
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 88.77, Date: 2025-12-24, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 120.22, Date: 2025-12-27, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 72.33, Date: 2025-12-30, Estimated Completion: 1 Hour
+Total Service Cost Paid: 281.32
+-------------------------------------------------
+Customer ID: 76
+Name: Luffy
+Vehicle Plate Number: ST707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 81.22, Date: 2025-12-09, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 113.55, Date: 2025-12-12, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 70.22, Date: 2025-12-14, Estimated Completion: 1 Hour
+Total Service Cost Paid: 264.99
+-------------------------------------------------
+Customer ID: 74
+Name: Conan
+Vehicle Plate Number: PQ505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 90.11, Date: 2025-11-26, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 160.55, Date: 2025-11-29, Estimated Completion: 4 Hours
+Total Service Cost Paid: 250.66
+-------------------------------------------------
+Customer ID: 72
+Name: Boruto
+Vehicle Plate Number: MN303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 79.44, Date: 2025-11-12, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 67.77, Date: 2025-11-15, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 140.77, Date: 2025-11-18, Estimated Completion: 3 Hours
+Total Service Cost Paid: 287.98
+-------------------------------------------------
+Customer ID: 79
+Name: Sanji
+Vehicle Plate Number: YZ010
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 81.77, Date: 2026-01-02, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 155.99, Date: 2026-01-04, Estimated Completion: 3 Hours
+Total Service Cost Paid: 237.76
+-------------------------------------------------
+Customer ID: 77
+Name: Zorro
+Vehicle Plate Number: UV808
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 83.44, Date: 2025-12-17, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 144.33, Date: 2025-12-19, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 167.88, Date: 2025-12-21, Estimated Completion: 4 Hours
+Total Service Cost Paid: 395.65
+-------------------------------------------------
+Customer ID: 75
+Name: Hagemaru
+Vehicle Plate Number: RS606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 75.99, Date: 2025-12-02, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 66.88, Date: 2025-12-04, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Transmission Repair, Cost: 155.66, Date: 2025-12-06, Estimated Completion: 3 Hours
+Total Service Cost Paid: 298.53
+-------------------------------------------------
+Customer ID: 73
+Name: Paquito
+Vehicle Plate Number: OP404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.66, Date: 2025-11-21, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.88, Date: 2025-11-23, Estimated Completion: 1 Hour
+Total Service Cost Paid: 158.54
+-------------------------------------------------
+Customer ID: 71
+Name: Choji
+Vehicle Plate Number: LK202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 76.11, Date: 2025-11-03, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 113.22, Date: 2025-11-06, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 70.11, Date: 2025-11-09, Estimated Completion: 1 Hour
+Total Service Cost Paid: 259.44
+-------------------------------------------------
+Customer ID: 55
+Name: Akai
+Vehicle Plate Number: IJ606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 87.22, Date: 2025-07-07, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 118.55, Date: 2025-07-09, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 155.77, Date: 2025-07-11, Estimated Completion: 4 Hours
+- Service ID: 4, Type: Brake Inspection, Cost: 72.33, Date: 2025-07-14, Estimated Completion: 1 Hour
+Total Service Cost Paid: 433.87
+-------------------------------------------------
+Customer ID: 54
+Name: Beatrix
+Vehicle Plate Number: HI505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 80.88, Date: 2025-06-28, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 75.11, Date: 2025-07-01, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 135.44, Date: 2025-07-04, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Tire Rotation, Cost: 115.99, Date: 2025-07-06, Estimated Completion: 2 Hours
+Total Service Cost Paid: 407.42
+-------------------------------------------------
+Customer ID: 53
+Name: Xborg
+Vehicle Plate Number: GH404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 72.77, Date: 2025-06-19, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 65.44, Date: 2025-06-22, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 165.66, Date: 2025-06-25, Estimated Completion: 4 Hours
+- Service ID: 4, Type: Engine Tune-Up, Cost: 149.33, Date: 2025-06-28, Estimated Completion: 3 Hours
+Total Service Cost Paid: 453.20
+-------------------------------------------------
+Customer ID: 52
+Name: Chou
+Vehicle Plate Number: EF303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.11, Date: 2025-06-10, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 120.33, Date: 2025-06-13, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 145.99, Date: 2025-06-16, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Brake Inspection, Cost: 69.77, Date: 2025-06-19, Estimated Completion: 1 Hour
+Total Service Cost Paid: 421.20
+-------------------------------------------------
+Customer ID: 51
+Name: Jawhead
+Vehicle Plate Number: CD202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 79.99, Date: 2025-06-01, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 158.88, Date: 2025-06-03, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 72.44, Date: 2025-06-06, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 145.55, Date: 2025-06-09, Estimated Completion: 3 Hours
+Total Service Cost Paid: 456.86
+-------------------------------------------------
+Customer ID: 75
+Name: Hagemaru
+Vehicle Plate Number: RS606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 75.99, Date: 2025-12-02, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 66.88, Date: 2025-12-04, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Transmission Repair, Cost: 155.66, Date: 2025-12-06, Estimated Completion: 3 Hours
+Total Service Cost Paid: 298.53
+-------------------------------------------------
+Customer ID: 73
+Name: Paquito
+Vehicle Plate Number: OP404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.66, Date: 2025-11-21, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.88, Date: 2025-11-23, Estimated Completion: 1 Hour
+Total Service Cost Paid: 158.54
+-------------------------------------------------
+Customer ID: 71
+Name: Choji
+Vehicle Plate Number: LK202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 76.11, Date: 2025-11-03, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 113.22, Date: 2025-11-06, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 70.11, Date: 2025-11-09, Estimated Completion: 1 Hour
+Total Service Cost Paid: 259.44
+-------------------------------------------------
+Customer ID: 49
+Name: Brody
+Vehicle Plate Number: YZ010
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 90.22, Date: 2025-05-20, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 62.33, Date: 2025-05-22, Estimated Completion: 1 Hour
+Total Service Cost Paid: 152.55
+-------------------------------------------------
+Customer ID: 47
+Name: Claude
+Vehicle Plate Number: UV808
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 87.11, Date: 2025-05-10, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 152.33, Date: 2025-05-12, Estimated Completion: 3 Hours
+Total Service Cost Paid: 239.44
+-------------------------------------------------
+Customer ID: 74
+Name: Conan
+Vehicle Plate Number: PQ505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 90.11, Date: 2025-11-26, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 160.55, Date: 2025-11-29, Estimated Completion: 4 Hours
+Total Service Cost Paid: 250.66
+-------------------------------------------------
+Customer ID: 72
+Name: Boruto
+Vehicle Plate Number: MN303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 79.44, Date: 2025-11-12, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 67.77, Date: 2025-11-15, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 140.77, Date: 2025-11-18, Estimated Completion: 3 Hours
+Total Service Cost Paid: 287.98
+-------------------------------------------------
+Customer ID: 50
+Name: Granger
+Vehicle Plate Number: AB101
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 75.88, Date: 2025-05-25, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 68.55, Date: 2025-05-28, Estimated Completion: 2 Hours
+Total Service Cost Paid: 144.43
+-------------------------------------------------
+Customer ID: 48
+Name: Wanwan
+Vehicle Plate Number: WX909
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 73.77, Date: 2025-05-15, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 112.77, Date: 2025-05-18, Estimated Completion: 1 Hour
+Total Service Cost Paid: 186.54
+-------------------------------------------------
+Customer ID: 46
+Name: Ixia
+Vehicle Plate Number: ST707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 83.77, Date: 2025-05-05, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 70.33, Date: 2025-05-08, Estimated Completion: 2 Hours
+Total Service Cost Paid: 154.10
+-------------------------------------------------
+Customer ID: 55
+Name: Akai
+Vehicle Plate Number: IJ606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 87.22, Date: 2025-07-07, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 118.55, Date: 2025-07-09, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 155.77, Date: 2025-07-11, Estimated Completion: 4 Hours
+- Service ID: 4, Type: Brake Inspection, Cost: 72.33, Date: 2025-07-14, Estimated Completion: 1 Hour
+Total Service Cost Paid: 433.87
+-------------------------------------------------
+Customer ID: 54
+Name: Beatrix
+Vehicle Plate Number: HI505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 80.88, Date: 2025-06-28, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 75.11, Date: 2025-07-01, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 135.44, Date: 2025-07-04, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Tire Rotation, Cost: 115.99, Date: 2025-07-06, Estimated Completion: 2 Hours
+Total Service Cost Paid: 407.42
+-------------------------------------------------
+Customer ID: 53
+Name: Xborg
+Vehicle Plate Number: GH404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 72.77, Date: 2025-06-19, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 65.44, Date: 2025-06-22, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 165.66, Date: 2025-06-25, Estimated Completion: 4 Hours
+- Service ID: 4, Type: Engine Tune-Up, Cost: 149.33, Date: 2025-06-28, Estimated Completion: 3 Hours
+Total Service Cost Paid: 453.20
+-------------------------------------------------
+Customer ID: 52
+Name: Chou
+Vehicle Plate Number: EF303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.11, Date: 2025-06-10, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 120.33, Date: 2025-06-13, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 145.99, Date: 2025-06-16, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Brake Inspection, Cost: 69.77, Date: 2025-06-19, Estimated Completion: 1 Hour
+Total Service Cost Paid: 421.20
+-------------------------------------------------
+Customer ID: 51
+Name: Jawhead
+Vehicle Plate Number: CD202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 79.99, Date: 2025-06-01, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 158.88, Date: 2025-06-03, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 72.44, Date: 2025-06-06, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 145.55, Date: 2025-06-09, Estimated Completion: 3 Hours
+Total Service Cost Paid: 456.86
+-------------------------------------------------
+Customer ID: 40
+Name: Eudora
+Vehicle Plate Number: KL101
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.11, Date: 2025-03-31, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 144.88, Date: 2025-04-02, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 74.66, Date: 2025-04-05, Estimated Completion: 1 Hour
+Total Service Cost Paid: 304.65
+-------------------------------------------------
+Customer ID: 38
+Name: Fanny
+Vehicle Plate Number: IJ909
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 98.77, Date: 2025-03-17, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 112.33, Date: 2025-03-19, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 70.11, Date: 2025-03-22, Estimated Completion: 2 Hours
+Total Service Cost Paid: 281.21
+-------------------------------------------------
+Customer ID: 36
+Name: Yin
+Vehicle Plate Number: GH707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 76.44, Date: 2025-03-03, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 114.88, Date: 2025-03-06, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 145.33, Date: 2025-03-09, Estimated Completion: 3 Hours
+Total Service Cost Paid: 336.65
+-------------------------------------------------
+Customer ID: 34
+Name: Leomord
+Vehicle Plate Number: EF505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.77, Date: 2025-02-22, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 140.33, Date: 2025-02-25, Estimated Completion: 3 Hours
+Total Service Cost Paid: 226.10
+-------------------------------------------------
+Customer ID: 32
+Name: Amon
+Vehicle Plate Number: CD303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 80.33, Date: 2025-02-10, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 62.11, Date: 2025-02-12, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 129.99, Date: 2025-02-15, Estimated Completion: 3 Hours
+Total Service Cost Paid: 272.43
+-------------------------------------------------
+Customer ID: 39
+Name: Angela
+Vehicle Plate Number: JK010
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 72.55, Date: 2025-03-25, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 118.33, Date: 2025-03-28, Estimated Completion: 1 Hour
+Total Service Cost Paid: 190.88
+-------------------------------------------------
+Customer ID: 37
+Name: Soryu
+Vehicle Plate Number: HI808
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 67.11, Date: 2025-03-12, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 79.99, Date: 2025-03-14, Estimated Completion: 2 Hours
+Total Service Cost Paid: 147.10
+-------------------------------------------------
+Customer ID: 35
+Name: Gatotkaca
+Vehicle Plate Number: FY606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 92.11, Date: 2025-02-27, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.22, Date: 2025-03-01, Estimated Completion: 2 Hours
+Total Service Cost Paid: 164.33
+-------------------------------------------------
+Customer ID: 33
+Name: Joy
+Vehicle Plate Number: DE404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 70.66, Date: 2025-02-18, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 78.11, Date: 2025-02-20, Estimated Completion: 2 Hours
+Total Service Cost Paid: 148.77
+-------------------------------------------------
+Customer ID: 31
+Name: Selena
+Vehicle Plate Number: BC202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.55, Date: 2025-02-05, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 120.33, Date: 2025-02-07, Estimated Completion: 2 Hours
+Total Service Cost Paid: 205.88
+-------------------------------------------------
+Customer ID: 53
+Name: Xborg
+Vehicle Plate Number: GH404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 72.77, Date: 2025-06-19, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 65.44, Date: 2025-06-22, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 165.66, Date: 2025-06-25, Estimated Completion: 4 Hours
+- Service ID: 4, Type: Engine Tune-Up, Cost: 149.33, Date: 2025-06-28, Estimated Completion: 3 Hours
+Total Service Cost Paid: 453.20
+-------------------------------------------------
+Customer ID: 52
+Name: Chou
+Vehicle Plate Number: EF303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.11, Date: 2025-06-10, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 120.33, Date: 2025-06-13, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 145.99, Date: 2025-06-16, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Brake Inspection, Cost: 69.77, Date: 2025-06-19, Estimated Completion: 1 Hour
+Total Service Cost Paid: 421.20
+-------------------------------------------------
+Customer ID: 51
+Name: Jawhead
+Vehicle Plate Number: CD202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 79.99, Date: 2025-06-01, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 158.88, Date: 2025-06-03, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 72.44, Date: 2025-06-06, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 145.55, Date: 2025-06-09, Estimated Completion: 3 Hours
+Total Service Cost Paid: 456.86
+-------------------------------------------------
+Customer ID: 29
+Name: Hayabusa
+Vehicle Plate Number: Z010
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 96.77, Date: 2025-01-23, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 115.22, Date: 2025-01-25, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 71.66, Date: 2025-01-28, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 151.22, Date: 2025-11-20, Estimated Completion: 3 Hours
+Total Service Cost Paid: 434.87
+-------------------------------------------------
+Customer ID: 20
+Name: Lylia
+Vehicle Plate Number: LK707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 93.44, Date: 2024-11-18, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 117.33, Date: 2024-11-20, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 69.77, Date: 2024-11-22, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 156.67, Date: 2024-11-25, Estimated Completion: 3 Hours
+Total Service Cost Paid: 437.21
+-------------------------------------------------
+Customer ID: 26
+Name: Sunio
+Vehicle Plate Number: UV303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 90.34, Date: 2025-01-02, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 130.45, Date: 2025-01-05, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Transmission Repair, Cost: 175.55, Date: 2025-01-08, Estimated Completion: 4 Hours
+Total Service Cost Paid: 396.34
+-------------------------------------------------
+Customer ID: 24
+Name: Doraemon
+Vehicle Plate Number: RS101
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 65.77, Date: 2024-12-14, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 84.55, Date: 2024-12-17, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 145.66, Date: 2024-12-20, Estimated Completion: 3 Hours
+Total Service Cost Paid: 295.98
+-------------------------------------------------
+Customer ID: 22
+Name: Hayabusa
+Vehicle Plate Number: OP909
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 60.22, Date: 2024-12-03, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 158.77, Date: 2024-12-06, Estimated Completion: 3 Hours
+Total Service Cost Paid: 218.99
+-------------------------------------------------
+Customer ID: 19
+Name: Balmond
+Vehicle Plate Number: KJ606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.10, Date: 2024-11-10, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 171.45, Date: 2024-11-12, Estimated Completion: 3 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 55.78, Date: 2024-11-15, Estimated Completion: 1 Hour
+Total Service Cost Paid: 312.33
+-------------------------------------------------
+Customer ID: 17
+Name: helcurt
+Vehicle Plate Number: GH404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 79.44, Date: 2024-10-28, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 94.77, Date: 2024-10-30, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Transmission Repair, Cost: 163.44, Date: 2026-03-22, Estimated Completion: 4 Hours
+Total Service Cost Paid: 337.65
+-------------------------------------------------
+Customer ID: 25
+Name: Nobita
+Vehicle Plate Number: ST202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 80.11, Date: 2024-12-23, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.98, Date: 2024-12-26, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Transmission Repair, Cost: 155.77, Date: 2024-12-29, Estimated Completion: 3 Hours
+Total Service Cost Paid: 308.86
+-------------------------------------------------
+Customer ID: 23
+Name: Pikachu
+Vehicle Plate Number: PQ010
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 70.55, Date: 2024-12-09, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 116.11, Date: 2024-12-11, Estimated Completion: 2 Hours
+Total Service Cost Paid: 186.66
+-------------------------------------------------
+Customer ID: 21
+Name: Ling
+Vehicle Plate Number: MN808
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 91.67, Date: 2024-11-28, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 50.34, Date: 2024-12-01, Estimated Completion: 2 Hours
+Total Service Cost Paid: 142.01
+-------------------------------------------------
+Customer ID: 18
+Name: Raphaela
+Vehicle Plate Number: HI505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 69.88, Date: 2024-11-02, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.13, Date: 2024-11-05, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 148.22, Date: 2024-11-08, Estimated Completion: 3 Hours
+Total Service Cost Paid: 290.23
+-------------------------------------------------
+Customer ID: 16
+Name: Alucard
+Vehicle Plate Number: EF303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 85.67, Date: 2024-10-20, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 65.56, Date: 2024-10-22, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 135.22, Date: 2024-10-25, Estimated Completion: 3 Hours
+Total Service Cost Paid: 286.45
+-------------------------------------------------
+Customer ID: 20
+Name: Lylia
+Vehicle Plate Number: LK707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 93.44, Date: 2024-11-18, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 117.33, Date: 2024-11-20, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 69.77, Date: 2024-11-22, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 156.67, Date: 2024-11-25, Estimated Completion: 3 Hours
+Total Service Cost Paid: 437.21
+-------------------------------------------------
+Customer ID: 15
+Name: Uranus
+Vehicle Plate Number: CD202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 91.56, Date: 2024-10-10, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Transmission Repair, Cost: 160.33, Date: 2024-10-12, Estimated Completion: 4 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 140.67, Date: 2024-10-14, Estimated Completion: 3 Hours
+- Service ID: 4, Type: Brake Inspection, Cost: 60.11, Date: 2024-10-16, Estimated Completion: 2 Hours
+Total Service Cost Paid: 452.67
+-------------------------------------------------
+Customer ID: 10
+Name: Atlas
+Vehicle Plate Number: ST707
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 95.34, Date: 2024-08-28, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 75.11, Date: 2024-09-01, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 118.89, Date: 2024-09-04, Estimated Completion: 2 Hours
+- Service ID: 4, Type: Transmission Repair, Cost: 200.22, Date: 2024-09-07, Estimated Completion: 4 Hours
+Total Service Cost Paid: 489.56
+-------------------------------------------------
+Customer ID: 7
+Name: Bane
+Vehicle Plate Number: MN404
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 77.62, Date: 2024-08-01, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 96.88, Date: 2024-08-05, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 50.12, Date: 2024-08-10, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Transmission Repair, Cost: 160.33, Date: 2024-08-12, Estimated Completion: 3 Hours
+Total Service Cost Paid: 384.95
+-------------------------------------------------
+Customer ID: 3
+Name: Barats
+Vehicle Plate Number: EF789
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 89.99, Date: 2024-06-15, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 122.55, Date: 2024-06-20, Estimated Completion: 2 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 61.12, Date: 2024-06-23, Estimated Completion: 1 Hour
+- Service ID: 4, Type: Engine Tune-Up, Cost: 155.35, Date: 2024-06-30, Estimated Completion: 3 Hours
+Total Service Cost Paid: 429.01
+-------------------------------------------------
+Customer ID: 13
+Name: Miya
+Vehicle Plate Number: YZ010
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 88.33, Date: 2024-09-25, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 110.44, Date: 2024-09-28, Estimated Completion: 2 Hours
+Total Service Cost Paid: 198.77
+-------------------------------------------------
+Customer ID: 11
+Name: Badang
+Vehicle Plate Number: UV808
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 54.35, Date: 2024-09-10, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 85.23, Date: 2024-09-12, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Brake Inspection, Cost: 65.90, Date: 2024-09-15, Estimated Completion: 1 Hour
+Total Service Cost Paid: 205.48
+-------------------------------------------------
+Customer ID: 8
+Name: Lolita
+Vehicle Plate Number: OP505
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 63.12, Date: 2024-08-15, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 85.23, Date: 2024-08-18, Estimated Completion: 2 Hours
+Total Service Cost Paid: 148.35
+-------------------------------------------------
+Customer ID: 5
+Name: Aldous
+Vehicle Plate Number: IJ202
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 92.71, Date: 2024-07-10, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 125.42, Date: 2024-07-12, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 78.64, Date: 2024-07-15, Estimated Completion: 1 Hour
+Total Service Cost Paid: 296.77
+-------------------------------------------------
+Customer ID: 2
+Name: Martis
+Vehicle Plate Number: CD456
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 62.85, Date: 2024-05-30, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 105.68, Date: 2024-06-10, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 53.49, Date: 2024-06-12, Estimated Completion: 2 Hours
+Total Service Cost Paid: 222.02
+-------------------------------------------------
+Customer ID: 12
+Name: Lancelot
+Vehicle Plate Number: WX909
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 63.99, Date: 2024-09-18, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Engine Tune-Up, Cost: 145.60, Date: 2024-09-22, Estimated Completion: 3 Hours
+Total Service Cost Paid: 209.59
+-------------------------------------------------
+Customer ID: 9
+Name: Khufra
+Vehicle Plate Number: QR606
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 70.90, Date: 2024-08-20, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 88.45, Date: 2024-08-22, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Engine Tune-Up, Cost: 132.77, Date: 2024-08-25, Estimated Completion: 3 Hours
+Total Service Cost Paid: 292.12
+-------------------------------------------------
+Customer ID: 6
+Name: Alice
+Vehicle Plate Number: KL303
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 72.44, Date: 2024-07-20, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 58.78, Date: 2024-07-25, Estimated Completion: 2 Hours
+- Service ID: 3, Type: Engine Tune-Up, Cost: 148.97, Date: 2024-07-28, Estimated Completion: 3 Hours
+Total Service Cost Paid: 280.19
+-------------------------------------------------
+Customer ID: 4
+Name: Argus
+Vehicle Plate Number: GH101
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 56.33, Date: 2024-07-01, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 110.78, Date: 2024-07-05, Estimated Completion: 1 Hour
+- Service ID: 3, Type: Brake Inspection, Cost: 63.85, Date: 2024-07-08, Estimated Completion: 2 Hours
+Total Service Cost Paid: 230.96
+-------------------------------------------------
+Customer ID: 1
+Name: Alpha
+Vehicle Plate Number: AB123
+Services:
+- Service ID: 1, Type: Oil Change, Cost: 87.47, Date: 2024-05-20, Estimated Completion: 2 Hour
+- Service ID: 2, Type: Tire Rotation, Cost: 115.22, Date: 2024-05-25, Estimated Completion: 1 Hour
+- Service ID: 2, Type: Brake Inspection, Cost: 72.13, Date: 2024-05-25, Estimated Completion: 1 Hour
+Total Service Cost Paid: 274.82
+-------------------------------------------------

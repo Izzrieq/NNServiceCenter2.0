@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=VehicleServiceCenterGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ exportCompletedTransactionsToFile()
+comment2.params=customer\ customerDetailsArea
+comment2.target=void\ addService(CustomerInfo,\ javax.swing.JTextArea)
+comment3.params=customerArea\ lane1Area\ lane2Area\ lane3Area\ limitQueue
+comment3.target=void\ loadAndProcessData(javax.swing.JTextArea,\ javax.swing.JTextArea,\ javax.swing.JTextArea,\ javax.swing.JTextArea,\ boolean)
+comment4.params=customerSelector
+comment4.target=void\ populateCustomerSelector(javax.swing.JComboBox)
+comment5.params=customer\ customerDetailsArea
+comment5.target=void\ displayCustomerDetails(CustomerInfo,\ javax.swing.JTextArea)
+comment6.params=laneQueue\ laneInfo
+comment6.target=void\ processLane(java.util.Queue,\ java.lang.StringBuilder)
+comment7.params=customerSelector\ customerArea
+comment7.target=void\ addCustomer(javax.swing.JComboBox,\ javax.swing.JTextArea)
+comment8.params=index\ customerSelector\ customerArea
+comment8.target=void\ deleteCustomer(int,\ javax.swing.JComboBox,\ javax.swing.JTextArea)
+comment9.params=customerArea
+comment9.target=void\ updateCustomerArea(javax.swing.JTextArea)
+numComments=11

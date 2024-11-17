@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ServiceInfo
+comment1.params=serviceId\ serviceType\ serviceCost\ serviceDate\ estimatedCompletionTime
+comment1.target=ServiceInfo(int,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getServiceCost()
+comment3.params=
+comment3.target=int\ getServiceId()
+comment4.params=
+comment4.target=java.lang.String\ getServiceType()
+comment5.params=
+comment5.target=java.lang.String\ getServiceDate()
+comment6.params=
+comment6.target=java.lang.String\ getEstimatedCompletionTime()
+numComments=7
